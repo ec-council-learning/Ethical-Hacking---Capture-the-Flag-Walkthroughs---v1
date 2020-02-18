@@ -1,0 +1,2 @@
+# Ethical-Hacking---Capture-the-Flag-Walkthroughs---v1
+Learn to Capture the Flags (CTF) with a walkthrough and footprint a target, enumerate the target for possible vulnerabilities, analyze the vulnerabilities and exploit the target to gain root access. Each CTF demonstrates the advanced techniques and different attack vectors used by professional pentesters and hackers. You'll learn Python, PHP scripting and tricks of the trade that will astound you!
